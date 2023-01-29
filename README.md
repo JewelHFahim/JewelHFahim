@@ -14,9 +14,7 @@
 
 ## :eyes: Current overview
 
-<div align="left">
-<a href=""><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
+
 
 ### 🔭 I’m working - Open to work. 
 ### 🌱 I’m exploring - Advance motion graphics for web. 
