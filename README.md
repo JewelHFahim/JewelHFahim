@@ -1,4 +1,4 @@
-![I am a Junior MERN Stack Developer ](https://media.licdn.com/dms/image/D5616AQFEbGIOMab6cA/profile-displaybackgroundimage-shrink_350_1400/0/1675018810633?e=1680739200&v=beta&t=-ee9phJwhA-713IW_rPuHEcyDFy1-XLRLHgJ-j6vN08)
+![I am a Frontend Developer ](https://media.licdn.com/dms/image/D5616AQFEbGIOMab6cA/profile-displaybackgroundimage-shrink_350_1400/0/1675018810633?e=1680739200&v=beta&t=-ee9phJwhA-713IW_rPuHEcyDFy1-XLRLHgJ-j6vN08)
 
 ## :mailbox: Reach me out
 
