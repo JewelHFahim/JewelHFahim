@@ -14,13 +14,18 @@
 
 ###
 
-<p align="left">I am searching for the role of Full Stack Developer at an innovative company where I can utilize my previous experience in designing, coding, testing, debugging, and deploying software and web applications. I have 2-3 years of professional experience in software and web applications-related field.</p>
+<p align="left">I am a Full Stack Developer with 2–3 years of professional experience in designing, coding, testing, debugging, and deploying software and web applications. I specialize in delivering efficient, scalable solutions and leveraging my expertise to build high-quality, user-focused products.</p>
 
 ###
 <h2 align="left">About me 👇</h2>
 
 ###
-<p align="left">✨ Professional Experience 3years+<br>🎓Education:- B.sc In Computer Science <br>📚 I'm currently learning New technology <br>🎯Feature Goals: Google Amazon Microsoft Meta<br>🎲 Fun fact: Sports, Traveling, Signing</p>
+<p align="left">
+✨ Professional Experience: 2.6+ years
+🎓 Education: B.Sc. in Computer Science
+📚 Currently Learning: Emerging and cutting-edge technologies
+🎯 Future Goals: Work with industry leaders like Google, Amazon, Microsoft, or Meta
+🎲 Fun Facts: Passionate about sports, traveling, and singing</p>
 
 ###
 <div align="center">
