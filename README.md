@@ -21,11 +21,12 @@
 
 ###
 <p align="left">
-✨ Professional Experience: 2.6+ years
-🎓 Education: B.Sc. in Computer Science
-📚 Currently Learning: Emerging and cutting-edge technologies
-🎯 Future Goals: Work with industry leaders like Google, Amazon, Microsoft, or Meta
-🎲 Fun Facts: Passionate about sports, traveling, and singing</p>
+✨ Professional Experience: 2.6+ years </br>
+🎓 Education: B.Sc. in Computer Science </br>
+📚 Currently Learning: Emerging and cutting-edge technologies </br>
+🎯 Future Goals: Work with industry leaders like Google, Amazon, Microsoft, or Meta </br>
+🎲 Fun Facts: Passionate about sports, traveling, and singing 
+</p>
 
 ###
 <div align="center">
