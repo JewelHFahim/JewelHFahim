@@ -25,7 +25,7 @@
 🎓 Education: B.Sc. in Computer Science </br>
 📚 Currently Learning: Emerging and cutting-edge technologies </br>
 🎯 Future Goals: Work with industry leaders like Google, Amazon, Microsoft, or Meta </br>
-🎲 Fun Facts: Passionate about sports, traveling, and singing 
+🎲 Fun Facts: Passionate about sports, traveling
 </p>
 
 ###
