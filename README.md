@@ -97,8 +97,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/svg/FFB13B" height="40" alt="svg logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
 
