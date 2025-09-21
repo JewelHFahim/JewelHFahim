@@ -17,7 +17,7 @@
 <p align="left">I am a Full Stack Developer with 2–3 years of professional experience in designing, coding, testing, debugging, and deploying software and web applications. I specialize in delivering efficient, scalable solutions and leveraging my expertise to build high-quality, user-focused products.</p>
 
 ###
-<h2 align="left">About me 👇</h2>
+<h2 align="left">About me </h2>
 
 ###
 <p align="left">
