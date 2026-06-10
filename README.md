@@ -21,7 +21,7 @@
 
 ###
 <p align="left">
-✨ Professional Experience: 2.6+ years </br>
+✨ Professional Experience: 3+ years </br>
 🎓 Education: B.Sc. in Computer Science </br>
 📚 Currently Learning: Emerging and cutting-edge technologies </br>
 🎯 Future Goals: Work with industry leaders like Google, Amazon, Microsoft, or Meta </br>
